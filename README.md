@@ -13,13 +13,6 @@ Authentication is done using JSON Web Tokens.
 - Its Makes The Overall Development Process Faster And Efficient As All Features Are Present In A Single System
 
 
-## Hosted Site 
-
-If anyone want to know what is Bug Tracking System and what features our website provides then you can visit this site.
-This website is just for explaining the features and what is Bug tracking System. But this is not a main website.
-
-Link-'https://bugtrackersdp.netlify.app/'
-
 
 
 ## TechStack Used
